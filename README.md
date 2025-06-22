@@ -18,4 +18,5 @@
 1. hello-world.js
 2. baby-steps.js
 3. my-first-io.js
-4. ...
+4. my-first-async-io.js
+5. filtered-ls.js
